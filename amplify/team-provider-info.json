@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-huzzah-dev-231501-authRole",
+      "UnauthRoleArn": "arn:aws:iam::033340442464:role/amplify-huzzah-dev-231501-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::033340442464:role/amplify-huzzah-dev-231501-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-huzzah-dev-231501-deployment",
+      "UnauthRoleName": "amplify-huzzah-dev-231501-unauthRole",
+      "StackName": "amplify-huzzah-dev-231501",
+      "StackId": "arn:aws:cloudformation:us-east-1:033340442464:stack/amplify-huzzah-dev-231501/841cb340-d4b3-11eb-97b6-0e762363e33d",
+      "AmplifyAppId": "dl8zzky31r1nb"
+    }
+  }
+}
